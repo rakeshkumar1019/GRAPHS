@@ -30,6 +30,7 @@ Sample Output 1 :
 0 1 3
 1 2 1
 0 3 5
+
 -----------------------------------------------------------------------------------------------------------------------------
 Kruskal's Algorithm
 
@@ -58,6 +59,7 @@ Sample Output 1 :
 1 2 1
 0 1 3
 0 3 5
+
 ----------------------------------------------------------------------------------------
 Dijkstra's Algorithm
 
@@ -83,6 +85,7 @@ Sample Output 1 :
 1 3
 2 4
 3 5
+
 -----------------------------------------------------------------------------------------------------------
 Code : BFS Traversal
 
@@ -110,6 +113,7 @@ Sample Output 1:
 0 1 3 2
 
 -----------------------------------------------------------------------------------------------------------
+
 Code : Has Path
 
 Given an undirected graph G(V, E) and two vertices v1 and v2(as integers), check if there exists any path between them or not. Print true or false.
@@ -144,6 +148,7 @@ Sample Output 2 :
 false
 
 ---------------------------------------------------------------------------------
+
 Code : Get Path - DFS
 
 Given an undirected graph G(V, E) and two vertices v1 and v2(as integers), find and print the path from v1 to v2 (if exists). Print nothing if there is no path between v1 and v2.
@@ -180,6 +185,7 @@ Sample Input 2 :
 Sample Output 2 :
 
 ------------------------------------------------------------------------------------
+
 Code : Get Path - BFS
 
 Given an undirected graph G(V, E) and two vertices v1 and v2(as integers), find and print the path from v1 to v2 (if exists). Print nothing if there is no path between v1 and v2.
@@ -216,6 +222,7 @@ Sample Input 2 :
 Sample Output 2 :
 
 -----------------------------------------------------------------------------------------------------------
+
 Code : Is Connected ?
 
 Given an undirected graph G(V,E), check if the graph G is connected graph or not.
@@ -245,6 +252,7 @@ Sample Input 2:
 Sample Output 2:
 false 
 Sample Output 2 Explanation
+
 The graph is not connected, even though vertices 0,1 and 3 are connected to each other but there isn’t any path from vertices 0,1,3 to vertex 2. 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -278,3 +286,7 @@ Sample Input 2:
 Sample Output 2:
 0 1 3 
 2
+
+
+
+
