@@ -4,7 +4,7 @@ Questions
 Prims.cpp
 
 Prim's Algorithm
-Send Feedback
+
 Given an undirected, connected and weighted graph G(V, E) with V number of vertices (which are numbered from 0 to V-1) and E number of edges.
 Find and print the Minimum Spanning Tree (MST) using Prim's algorithm.
 For printing MST follow the steps -
